@@ -1,4 +1,4 @@
-FROM webdevops/php:7.3
+FROM webdevops/php:7.1
 
 RUN set -x \
     # Install php environment
